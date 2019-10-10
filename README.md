@@ -7,7 +7,7 @@ How to add a playlist
 3. Add the url here
 -->
 
-[How to import a playlist into the Hi-Fi Cast App](./doc/how-to-import.md)
+[How to import a playlist](./doc/how-to-import.md) into the [Hi-Fi Cast](https://play.google.com/store/apps/details?id=com.findhdmusic.app.upnpcast) Android app
 
 ### Some Playlists
 
