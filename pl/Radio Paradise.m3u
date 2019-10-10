@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1,Radio Paradise (MP3-320)
+http://stream.radioparadise.com/mp3-320
+
+#EXTINF:-1,Radio Paradise (AAC-32)
+http://stream.radioparadise.com/aac-32
+
+#EXTINF:-1,Radio Paradise (AAC-128)
+http://stream.radioparadise.com/aac-128
+
+#EXTINF:-1,Radio Paradise (OGG/VORBIS-192) - No Metadata
+http://icy-7.radioparadise.com/rp_192.ogg
+
+#EXTINF:-1,Radio Paradise (OGG/VORBIS-192) - Metadata
+http://icy-7.radioparadise.com/rp_192m.ogg
+
+#EXTINF:-1,Radio Paradise (FLAC)
+http://stream.radioparadise.com/flac
+
+#EXTINF:-1,Radio Paradise - Mellow (AAC-128)
+http://stream.radioparadise.com/mellow-128
+
+#EXTINF:-1,Radio Paradise - Mellow (FLAC)
+http://stream.radioparadise.com/mellow-flac
+
+#EXTINF:-1,Radio Paradise (M3U MP3-128)
+http://legacy.radioparadise.com/m3u/mp3-128.m3u
+
+#EXTINF:-1,Radio Paradise (M3U AAC-64)
+http://legacy.radioparadise.com/m3u/aac-64.m3u
+
+#EXTINF:-1,Radio Paradise (REAL MP3-192)
+http://legacy.radioparadise.com/m3u/rp_192.ram
+
+
+
