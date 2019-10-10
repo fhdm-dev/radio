@@ -1,37 +1,99 @@
 #EXTM3U
 
-#EXTINF:-1,Radio Paradise (MP3-320)
-http://stream.radioparadise.com/mp3-320
-
-#EXTINF:-1,Radio Paradise (AAC-32)
-http://stream.radioparadise.com/aac-32
-
-#EXTINF:-1,Radio Paradise (AAC-128)
+#EXTINF:-1,Main Mix 320k AAC
+http://stream.radioparadise.com/aac-320
+#EXTINF:-1,Main Mix 128k AAC
 http://stream.radioparadise.com/aac-128
+#EXTINF:-1,Main Mix 64k AAC+
+http://stream.radioparadise.com/aac-64
+#EXTINF:-1,Main Mix 32k AAC+
+http://stream.radioparadise.com/aac-32
+#EXTINF:-1,Main Mix 24k AAC+
+http://stream.radioparadise.com/aac-24
 
-#EXTINF:-1,Radio Paradise (OGG/VORBIS-192) - No Metadata
-http://icy-7.radioparadise.com/rp_192.ogg
-
-#EXTINF:-1,Radio Paradise (OGG/VORBIS-192) - Metadata
-http://icy-7.radioparadise.com/rp_192m.ogg
-
-#EXTINF:-1,Radio Paradise (FLAC)
-http://stream.radioparadise.com/flac
-
-#EXTINF:-1,Radio Paradise - Mellow (AAC-128)
+#EXTINF:-1,Mellow Mix 320k AAC
+http://stream.radioparadise.com/mellow-320
+#EXTINF:-1,Mellow Mix 128k AAC
 http://stream.radioparadise.com/mellow-128
+#EXTINF:-1,Mellow Mix 64k AAC+
+http://stream.radioparadise.com/mellow-64
+#EXTINF:-1,Mellow Mix 32k AAC+
+http://stream.radioparadise.com/mellow-32
 
-#EXTINF:-1,Radio Paradise - Mellow (FLAC)
+#EXTINF:-1,Rock Mix 320k AAC
+http://stream.radioparadise.com/rock-320
+#EXTINF:-1,Rock Mix 128k AAC
+http://stream.radioparadise.com/rock-128
+#EXTINF:-1,Rock Mix 64k AAC+
+http://stream.radioparadise.com/rock-64
+#EXTINF:-1,Rock Mix 32k AAC+
+http://stream.radioparadise.com/rock-32
+
+#EXTINF:-1,Eclectic Mix 320k AAC
+http://stream.radioparadise.com/eclectic-320
+#EXTINF:-1,Eclectic Mix 128k AAC
+http://stream.radioparadise.com/eclectic-128
+#EXTINF:-1,Eclectic Mix 64k AAC+
+http://stream.radioparadise.com/eclectic-64
+#EXTINF:-1,Eclectic Mix 32k AAC+
+http://stream.radioparadise.com/eclectic-32
+
+#EXTINF:-1,Main Mix FLAC
+http://stream.radioparadise.com/flac
+#EXTINF:-1,Mellow Mix FLAC
 http://stream.radioparadise.com/mellow-flac
+#EXTINF:-1,Rock Mix FLAC
+http://stream.radioparadise.com/rock-flac
+#EXTINF:-1,Eclectic Mix FLAC
+http://stream.radioparadise.com/eclectic-flac
 
-#EXTINF:-1,Radio Paradise (M3U MP3-128)
+#EXTINF:-1,Main Mix 320k MP3
+http://stream.radioparadise.com/mp3-320
+#EXTINF:-1,Main Mix 192k MP3
+http://stream.radioparadise.com/mp3-192
+#EXTINF:-1,Main Mix 128k MP3
+http://stream.radioparadise.com/mp3-128
+#EXTINF:-1,Main Mix 32k MP3
+http://stream.radioparadise.com/mp3-32
+
+#EXTINF:-1,Mellow Mix 192k MP3
+http://stream.radioparadise.com/mellow-192
+
+#EXTINF:-1,Rock Mix 192k MP3
+http://stream.radioparadise.com/rock-192
+
+#EXTINF:-1,Eclectic Mix 192k MP3
+http://stream.radioparadise.com/eclectic-192
+
+#EXTINF:-1,192k Ogg Vorbis (US)
+http://icy-7.radioparadise.com/rp_192.ogg
+#EXTINF:-1,192k Ogg Vorbis (EU)
+http://icy-4.radioparadise.com/rp_192.ogg
+#EXTINF:-1,192k Ogg Vorbis (with song title data)
+http://icy-7.radioparadise.com/rp_192m.ogg
+#EXTINF:-1,96k Ogg Vorbis (US)
+http://icy-7.radioparadise.com/rp_96.ogg
+#EXTINF:-1,96k Ogg Vorbis (EU)
+http://icy-4.radioparadise.com/rp_96.ogg
+#EXTINF:-1,96k Ogg Vorbis (with song title data)
+http://icy-7.radioparadise.com/rp_96m.ogg
+#EXTINF:-1,32k Ogg Vorbis
+http://icy-7.radioparadise.com/rp_32.ogg
+
+#EXTINF:-1,Legacy 192k MP3
+http://legacy.radioparadise.com/m3u/mp3-192.m3u
+#EXTINF:-1,Legacy 128k MP3
 http://legacy.radioparadise.com/m3u/mp3-128.m3u
-
-#EXTINF:-1,Radio Paradise (M3U AAC-64)
+#EXTINF:-1,Legacy 128k AAC
+http://legacy.radioparadise.com/m3u/aac-128.m3u
+#EXTINF:-1,Legacy 64k AAC
 http://legacy.radioparadise.com/m3u/aac-64.m3u
+#EXTINF:-1,Legacy 32k AAC
+http://legacy.radioparadise.com/m3u/aac-32.m3u
 
-#EXTINF:-1,Radio Paradise (REAL MP3-192)
+#EXTINF:-1,192k MP3/Real
 http://legacy.radioparadise.com/m3u/rp_192.ram
-
-
-
+#EXTINF:-1,128k MP3/Real
+http://legacy.radioparadise.com/m3u/rp_128.ram
+#EXTINF:-1,32k MP3/Real
+http://legacy.radioparadise.com/m3u/rp_32.ram
