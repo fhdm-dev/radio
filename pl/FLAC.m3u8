@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1,Hi On Line
+http://mscp2.live-streams.nl:8100/flac.flac
+
+#EXTINF:-1,Chill Out Zone Plus
+https://chillout.zone/chillout_plus
+
+#EXTINF:-1,The Cheese
+http://thecheese.ddns.net:8004/stream
+
+#EXTINF:-1,Fréquence 3
+http://hivane01.frequence3.net:80/frequence3.flac
+
+#EXTINF:-1,Intense Radio
+http://secure.live-streams.nl:80/flac.flac
+
+#EXTINF:-1,Riverside Radio (24bit/48kHz)
+https://stream.and-stuff.nl:8443/live-riverside-flac
