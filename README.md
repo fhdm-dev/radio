@@ -20,4 +20,6 @@ How to add a playlist
 ##### BBC Low Bitrate HLS Streams (Worldwide)
 <https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/BBC%20(Non-UK).m3u>
 
+##### Miscellaneous FLAC Streams
+<https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/FLAC.m3u8>
 
