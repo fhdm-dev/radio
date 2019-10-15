@@ -1,15 +1,32 @@
 #EXTM3U
 
+#===========================================================
 #EXTINF:-1,Main Mix 320k AAC
+#TXE-ITEM-LOGO: https://radioparadise.com/rpassets/images/logo/icon_flat_black_padded_62x50.png
+#TXE-RES-FORMAT: RAW/AAC
 http://stream.radioparadise.com/aac-320
+
 #EXTINF:-1,Main Mix 128k AAC
+#TXE-ITEM-LOGO: https://radioparadise.com/rpassets/images/logo/icon_flat_black_padded_62x50.png
+#TXE-RES-FORMAT: RAW/AAC
 http://stream.radioparadise.com/aac-128
+
 #EXTINF:-1,Main Mix 64k AAC+
+#TXE-ITEM-LOGO: https://radioparadise.com/rpassets/images/logo/icon_flat_black_padded_62x50.png
+#TXE-RES-FORMAT: RAW/AAC
 http://stream.radioparadise.com/aac-64
+
 #EXTINF:-1,Main Mix 32k AAC+
+#TXE-ITEM-LOGO: https://radioparadise.com/rpassets/images/logo/icon_flat_black_padded_62x50.png
+#TXE-RES-FORMAT: RAW/AAC
 http://stream.radioparadise.com/aac-32
+
 #EXTINF:-1,Main Mix 24k AAC+
+#TXE-ITEM-LOGO: https://radioparadise.com/rpassets/images/logo/icon_flat_black_padded_62x50.png
+#TXE-RES-FORMAT: RAW/AAC
 http://stream.radioparadise.com/aac-24
+
+#===========================================================
 
 #EXTINF:-1,Mellow Mix 320k AAC
 http://stream.radioparadise.com/mellow-320
@@ -20,6 +37,8 @@ http://stream.radioparadise.com/mellow-64
 #EXTINF:-1,Mellow Mix 32k AAC+
 http://stream.radioparadise.com/mellow-32
 
+#===========================================================
+
 #EXTINF:-1,Rock Mix 320k AAC
 http://stream.radioparadise.com/rock-320
 #EXTINF:-1,Rock Mix 128k AAC
@@ -28,6 +47,8 @@ http://stream.radioparadise.com/rock-128
 http://stream.radioparadise.com/rock-64
 #EXTINF:-1,Rock Mix 32k AAC+
 http://stream.radioparadise.com/rock-32
+
+#===========================================================
 
 #EXTINF:-1,Eclectic Mix 320k AAC
 http://stream.radioparadise.com/eclectic-320
@@ -38,6 +59,8 @@ http://stream.radioparadise.com/eclectic-64
 #EXTINF:-1,Eclectic Mix 32k AAC+
 http://stream.radioparadise.com/eclectic-32
 
+#===========================================================
+
 #EXTINF:-1,Main Mix FLAC
 http://stream.radioparadise.com/flac
 #EXTINF:-1,Mellow Mix FLAC
@@ -46,6 +69,8 @@ http://stream.radioparadise.com/mellow-flac
 http://stream.radioparadise.com/rock-flac
 #EXTINF:-1,Eclectic Mix FLAC
 http://stream.radioparadise.com/eclectic-flac
+
+#===========================================================
 
 #EXTINF:-1,Main Mix 320k MP3
 http://stream.radioparadise.com/mp3-320
@@ -56,6 +81,8 @@ http://stream.radioparadise.com/mp3-128
 #EXTINF:-1,Main Mix 32k MP3
 http://stream.radioparadise.com/mp3-32
 
+#===========================================================
+
 #EXTINF:-1,Mellow Mix 192k MP3
 http://stream.radioparadise.com/mellow-192
 
@@ -64,6 +91,8 @@ http://stream.radioparadise.com/rock-192
 
 #EXTINF:-1,Eclectic Mix 192k MP3
 http://stream.radioparadise.com/eclectic-192
+
+#===========================================================
 
 #EXTINF:-1,192k Ogg Vorbis (US)
 http://icy-7.radioparadise.com/rp_192.ogg
@@ -80,6 +109,8 @@ http://icy-7.radioparadise.com/rp_96m.ogg
 #EXTINF:-1,32k Ogg Vorbis
 http://icy-7.radioparadise.com/rp_32.ogg
 
+#===========================================================
+
 #EXTINF:-1,Legacy 192k MP3
 http://legacy.radioparadise.com/m3u/mp3-192.m3u
 #EXTINF:-1,Legacy 128k MP3
@@ -91,9 +122,13 @@ http://legacy.radioparadise.com/m3u/aac-64.m3u
 #EXTINF:-1,Legacy 32k AAC
 http://legacy.radioparadise.com/m3u/aac-32.m3u
 
+#===========================================================
+
 #EXTINF:-1,192k MP3/Real
 http://legacy.radioparadise.com/m3u/rp_192.ram
 #EXTINF:-1,128k MP3/Real
 http://legacy.radioparadise.com/m3u/rp_128.ram
 #EXTINF:-1,32k MP3/Real
 http://legacy.radioparadise.com/m3u/rp_32.ram
+
+#===========================================================
