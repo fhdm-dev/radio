@@ -1,25 +1,59 @@
 #EXTM3U
+
 #EXTINF:-1,BBC Radio 1
+#TXE-ITEM-SUBTITLE: From pop to dance, from hip hop to rock and everything in between
+#TXE-ITEM-LOGO:
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
+
 #EXTINF:-1,BBC Radio 1Xtra
+#TXE-ITEM-SUBTITLE: Hip Hop, RnB, Grime, Dancehall, Afrobeats, Drum n Bass – championing UK and international underground diverse music
+#TXE-ITEM-LOGO:
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_1xtra.m3u8
+
 #EXTINF:-1,BBC Radio 2
+#TXE-ITEM-SUBTITLE: Pop and Rock from the fifties, sixties, seventies, eighties, nineties, and thousands and beyond to blues, big band, country and jazz with the best live music and documentaries
+#TXE-ITEM-LOGO:
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_two.m3u8
+
 #EXTINF:-1,BBC Radio 3
+#TXE-ITEM-SUBTITLE: Classical music, jazz, world music, new music, arts programmes and drama
+#TXE-ITEM-LOGO:
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_three.m3u8
+
 #EXTINF:-1,BBC Radio 4 FM
+#TXE-ITEM-SUBTITLE: Intelligent speech, the most insightful journalism, the wittiest comedy, the most fascinating features and the most compelling drama and readings anywhere in UK radio
+#TXE-ITEM-LOGO: https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_radio_one_colour.svg
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourfm.m3u8
+
 #EXTINF:-1,BBC Radio 4 Extra
+#TXE-ITEM-SUBTITLE: Showcasing the best in comedy drama and entertainment. With quizzes, sitcoms, panel games, satire, stand up, life stories, classics from the archive, science fiction and fantasy
+#TXE-ITEM-LOGO:
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_four_extra.m3u8
+
 #EXTINF:-1,BBC Radio 4 LW
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_fourlw.m3u8
+
 #EXTINF:-1,BBC Radio 5 Live
+#TXE-ITEM-SUBTITLE: Live news and live sport
+#TXE-ITEM-LOGO:
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_five_live.m3u8
+
 #EXTINF:-1,BBC Radio 5 Live Sports Extra
+#TXE-ITEM-SUBTITLE: More live sport. Pure live sport
+#TXE-ITEM-LOGO:
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_five_live_sports_extra.m3u8
+
 #EXTINF:-1,BBC Radio 6 Music
+#TXE-ITEM-SUBTITLE: Alternative Music. From Indie Pop and Iconic Rock to Trip Hop, Electronica and Dance with great Archive Music Sessions, Live Music Concerts and Documentaries
+#TXE-ITEM-LOGO:
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_6music.m3u8
+
 #EXTINF:-1,BBC Asian Network
+#TXE-ITEM-SUBTITLE: Bollywood, Bhangra, Asian Urban and underground. Home of Desi music, news and documentaries
+#TXE-ITEM-LOGO:
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_asian_network.m3u8
+
 #EXTINF:-1,BBC World Service
+#TXE-ITEM-SUBTITLE: International radio station for current affairs
+#TXE-ITEM-LOGO:
 http://bbcwsen-lh.akamaihd.net/i/WSEIEUK_1@189911/master.m3u8
