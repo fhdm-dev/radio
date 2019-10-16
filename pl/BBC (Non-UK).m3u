@@ -1,5 +1,7 @@
 #EXTM3U
 
+#TXE-PLAYLIST-TITLE: BBC Low Bitrate HLS
+
 #EXTINF:-1,BBC Radio 1
 #TXE-ITEM-SUBTITLE: From pop to dance, from hip hop to rock and everything in between
 #TXE-ITEM-LOGO:
