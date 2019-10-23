@@ -1,6 +1,10 @@
 #EXTM3U
+#===========================================================
+
+#TXE-PLAYLIST-TITLE: BBC Low Bitrate HLS
 
 #===========================================================
+
 #EXTINF:-1,Main Mix 320k AAC
 #TXE-ITEM-LOGO: https://radioparadise.com/rpassets/images/logo/icon_flat_black_padded_62x50.png
 #TXE-RES-FORMAT: RAW/AAC
