@@ -1,0 +1,89 @@
+#EXTM3U
+#===========================================================
+
+#TXE-PLAYLIST-TITLE: Absolute Radio
+
+#===========================================================
+
+# 128kbps AAC
+#EXTINF:-1,Absolute Radio - 128k AAC
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/1.png?ver=1463741189
+#TXE-RES-FORMAT: RAW/AAC
+http://live-absolute.sharp-stream.com/absoluteradiohigh.aac
+
+#EXTINF:-1,Absolute Radio Classic Rock - 128k AAC
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/2.png?ver=1465293129
+#TXE-RES-FORMAT: RAW/AAC
+http://live-absolute.sharp-stream.com/absoluteclassicrockhigh.aac
+
+#EXTINF:-1,Absolute Radio 10s - 128k AAC
+#TXE-ITEM-LOGO: https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/422.jpg?ver=1573759042
+#TXE-RES-FORMAT: RAW/AAC
+http://live-absolute.sharp-stream.com/absolute10shigh.aac
+
+#EXTINF:-1,Absolute Radio 00s - 128k AAC
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/7.png?ver=1463741192
+#TXE-RES-FORMAT: RAW/AAC
+http://live-absolute.sharp-stream.com/absolute00shigh.aac
+
+#EXTINF:-1,Absolute Radio 90s - 128k AAC
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/6.png?ver=1463741192
+#TXE-RES-FORMAT: RAW/AAC
+http://live-absolute.sharp-stream.com/absolute90shigh.aac
+
+#EXTINF:-1,Absolute Radio 80s - 128k AAC
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/5.png?ver=1463741192
+#TXE-RES-FORMAT: RAW/AAC
+http://live-absolute.sharp-stream.com/absolute80shigh.aac
+
+#EXTINF:-1,Absolute Radio 70s - 128k AAC
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/4.png?ver=1463741192
+#TXE-RES-FORMAT: RAW/AAC
+http://live-absolute.sharp-stream.com/absolute70shigh.aac
+
+#EXTINF:-1,Absolute Radio 60s - 128k AAC
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/3.png?ver=1463741192
+#TXE-RES-FORMAT: RAW/AAC
+http://live-absolute.sharp-stream.com/absolute60shigh.aac
+
+# 112kbps MP3
+#EXTINF:-1,Absolute Radio - 112k MP3
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/1.png?ver=1463741189
+#TXE-RES-FORMAT: MP3/MP3
+http://live-absolute.sharp-stream.com/absoluteradio.mp3
+
+#EXTINF:-1,Absolute Radio Classic Rock - 112k MP3
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/2.png?ver=1465293129
+#TXE-RES-FORMAT: MP3/MP3
+http://live-absolute.sharp-stream.com/absoluteclassicrock.mp3
+
+#EXTINF:-1,Absolute Radio 10s - 112k MP3
+#TXE-ITEM-LOGO: https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/422.jpg?ver=1573759042
+#TXE-RES-FORMAT: MP3/MP3
+http://live-absolute.sharp-stream.com/absolute10s.mp3
+
+#EXTINF:-1,Absolute Radio 00s - 112k MP3
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/7.png?ver=1463741192
+#TXE-RES-FORMAT: MP3/MP3
+http://live-absolute.sharp-stream.com/absolute00s.mp3
+
+#EXTINF:-1,Absolute Radio 90s - 112k MP3
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/6.png?ver=1463741192
+#TXE-RES-FORMAT: MP3/MP3
+http://live-absolute.sharp-stream.com/absolute90s.mp3
+
+#EXTINF:-1,Absolute Radio 80s - 112k MP3
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/5.png?ver=1463741192
+#TXE-RES-FORMAT: MP3/MP3
+http://live-absolute.sharp-stream.com/absolute80s.mp3
+
+#EXTINF:-1,Absolute Radio 70s - 112k MP3
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/4.png?ver=1463741192
+#TXE-RES-FORMAT: MP3/MP3
+http://live-absolute.sharp-stream.com/absolute70s.mp3
+
+#EXTINF:-1,Absolute Radio 60s - 112k MP3
+#TXE-ITEM-LOGO: https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/3.png?ver=1463741192
+#TXE-RES-FORMAT: MP3/MP3
+http://live-absolute.sharp-stream.com/absolute60s.mp3
+
