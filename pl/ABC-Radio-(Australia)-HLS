@@ -1,0 +1,12 @@
+#EXTM3U
+#===========================================================
+
+#TXE-PLAYLIST-TITLE: ABC Radio (Australia) - HLS
+
+#===========================================================
+#EXTINF:-1,International Rugby - HLS
+http://www.abc.net.au/res/streaming/audio/hls/itinerant_one.m3u8
+#EXTINF:-1,WBBL - HLS
+http://www.abc.net.au/res/streaming/audio/hls/itinerant_two.m3u8
+#EXTINF:-1,Grandstand Extra - HLS
+http://www.abc.net.au/res/streaming/audio/hls/itinerant_three.m3u8
