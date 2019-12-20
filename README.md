@@ -26,6 +26,10 @@ How to add a playlist
 ##### ABC Radio (Australia)
 ###### MP3
 <https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/ABC-Radio-(Australia)-MP3>
+###### AAC
+https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/ABC-Radio-(Australia)-AAC
+###### HLS
+https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/ABC-Radio-(Australia)-HLS
 
 ##### Miscellaneous FLAC Streams
 <https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/FLAC.m3u8>
