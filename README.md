@@ -34,3 +34,6 @@ https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/ABC-Radio-(Australia)
 ##### Miscellaneous FLAC Streams
 <https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/FLAC.m3u8>
 
+##### Miscellaneous UK Streams
+https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/Miscellaneous-UK-Streams
+
