@@ -1,0 +1,25 @@
+#EXTM3U
+#===========================================================
+
+#TXE-PLAYLIST-TITLE: Miscellaneous UK Streams
+
+#===========================================================
+
+# Classic FM
+#EXTINF:-1,Classic FM - 128k AAC
+#TXE-ITEM-LOGO: https://static.classicfm.com/assets_v4r/dist/combined/img/classic-logo_desktop.png
+#TXE-RES-FORMAT: MP3/MP3
+http://media-ice.musicradio.com/ClassicFMMP3
+
+# Other Classic FM urls
+# AAC 48kb/s: http://media-ice.musicradio.com/ClassicFM
+# MP3 48kb/s: http://media-ice.musicradio.com/ClassicFMMP3Low
+
+#-------------------------------------------------------------
+
+# LBC London
+# See: https://www.lbc.co.uk/faq/online-listen-live/
+#EXTINF:-1,LBC (London stream) - AAC
+#TXE-ITEM-LOGO: https://static.lbc.co.uk/assets_v4r/dist/combined/img/lbc-logo_desktop.png
+#TXE-RES-FORMAT: RAW/AAC
+http://media-ice.musicradio.com:80/LBCLondon
