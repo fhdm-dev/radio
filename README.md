@@ -31,6 +31,9 @@ https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/ABC-Radio-(Australia)
 ###### HLS (not working: 20/Dec/2019)
 https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/ABC-Radio-(Australia)-HLS.m3u
 
+##### Linn
+https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/Linn.m3u
+
 ##### Miscellaneous FLAC Streams
 <https://raw.githubusercontent.com/fhdm-dev/radio/master/pl/FLAC.m3u8>
 
