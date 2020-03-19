@@ -1,0 +1,18 @@
+#EXTM3U
+#===========================================================
+
+#TXE-PLAYLIST-TITLE: Linn
+
+#===========================================================
+
+#EXTINF:-1,Linn Radio
+#TXE-ITEM-LOGO: https://cdn-radiotime-logos.tunein.com/s122119q.png
+http://radio.linnrecords.com/cast/tunein.php/linnradio/playlist.pls
+
+#EXTINF:-1,Linn Classical
+#TXE-ITEM-LOGO: https://cdn-radiotime-logos.tunein.com/s122116q.png
+http://radio.linnrecords.com/cast/tunein.php/linnclassical/playlist.pls
+
+#EXTINF:-1,Linn Jazz
+#TXE-ITEM-LOGO: https://cdn-radiotime-logos.tunein.com/s122120q.png
+http://radio.linnrecords.com/cast/tunein.php/linnjazz/playlist.pls
